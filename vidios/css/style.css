@@ -1,0 +1,20 @@
+.vid{
+    width: 100px;
+    align-items: center;
+    text-align: center;
+}
+.video-lisT{
+    align-items: center;
+    text-align: center;
+}
+.container{
+    align-items: center;
+    text-align: center;
+}
+@media  (max-width: 272px){
+    .vid{
+        width: 4px;
+    }
+
+    
+}
